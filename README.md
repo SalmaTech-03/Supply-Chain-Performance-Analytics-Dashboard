@@ -1,6 +1,4 @@
-**
-Supply-Chain-Performance-Analytics-Dashboard
-**
+**Supply-Chain-Performance-Analytics-Dashboard**
 ![1](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/4641de54-2350-4a3a-a9f4-b490094328ce)
 
 ![2](https://github.com/hoshigan/Supply-Chain-Analytic---Just-In-Time-Company/assets/139525944/c1f801eb-da1f-408a-972e-6b8ffee3398c)
